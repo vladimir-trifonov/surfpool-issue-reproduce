@@ -1,0 +1,15 @@
+{
+  "name": "solana-swap-idl-environment",
+  "version": "1.0.0",
+  "description": "Swap/AMM zero-SDK environment with pre-generated IDL SDKs (no dynamic IDL loading).",
+  "type": "module",
+  "dependencies": {
+    "@solana/web3.js": "1.98.4",
+    "@solana/spl-token": "0.4.14",
+    "@solana/kit": "3.0.3",
+    "@meteora-ag/dlmm": "^1.7.5",
+    "bs58": "6.0.0",
+    "decimal.js": "10.6.0",
+    "bn.js": "5.2.2"
+  }
+}
